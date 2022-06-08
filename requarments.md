@@ -1,0 +1,8 @@
+- routers
+- /ticikits/sell - create tikit
+- /tikictes - find all tikicets
+- /tiikict/t/:ticketid GET - find singel ticket
+- /tiikict/u/:ticketid
+- /ticket/t/:ticketid PATCH - updeate ticket buy id
+- /tickets/:tkcetid - delete ticket
+-
